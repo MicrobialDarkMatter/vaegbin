@@ -1,9 +1,4 @@
-# GraphMB: Assembly Graph Metagenomic Binner
-
-# Introduction
-
-GraphMB is a Metagenomic Binner developed for long-read assemblies, that takes advantage of graph machine learning 
-algorithms and the assembly graph generated during assembly. It has been tested on (meta)flye assemblies.
+# VAEG-BIN: Graph Neural Networks for Metagenomic Binning
 
 # Data
 
